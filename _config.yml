@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Claudio Antares Mezzina"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor in Computer Science"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Dipartimento di Informatica, Università di Bari Aldo Moro"
   uri              : # URL
   email            : "none@example.org"
 

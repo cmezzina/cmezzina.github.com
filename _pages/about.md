@@ -21,4 +21,4 @@ From January 2015 to August 2018, he was an Assistant Professor at IMT School fo
 From April 2019 to April 2021, he was a tenure-track Associate Professor at the University of Urbino. He subsequently served as an Associate Professor at the University of Urbino from April 2021 to July 2026.
 
 ## Research Interests
-My main research interests include formal methods for concurrent and distributed systems. Also, my aim is to provide primitives for automatic fault-handling and reliable systems. Lately I got interested in quantitative, such as time and stochastic, aspects of reversible systems and their application to quantum computing.
+My main research interests lie in formal methods for concurrent and distributed systems, with a particular focus on reversibility as a foundational principle for computation. In this context, I aim to develop primitives for automatic fault handling and the design of reliable systems through reversible and recoverable computation models. More recently, I have become interested in quantitative aspects—such as timing and stochastic behaviours—of reversible systems, as well as their applications to quantum computing.

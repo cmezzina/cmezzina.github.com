@@ -22,3 +22,13 @@ From April 2019 to April 2021, he was a tenure-track Associate Professor at the 
 
 ## Research Interests
 My main research interests lie in formal methods for concurrent and distributed systems, with a particular focus on reversibility as a foundational principle for computation. In this context, I aim to develop primitives for automatic fault handling and the design of reliable systems through reversible and recoverable computation models. More recently, I have become interested in quantitative aspects—such as timing and stochastic behaviours—of reversible systems, as well as their applications to quantum computing.
+
+## Projects
+
+* JSPS Fellowship 2025 on reversibility and go programming @Nagoya University
+* co-PI of the Italian Mur Prin Project DeKLA: Developing Kleene Logics and their Applications 
+* Work Package Leader of the Italian Mur Prin Project NiRvAna: Noninterference and Reversible Analysis in Private Blockchains
+* Local Leader for Urbino, of the MSCA Staff Exchange QCOMICAL on quantum computing
+* Vice Coordinator of RCR: Reversible Computing Research Group
+* National Coordinator of the INdAM - GNCS project: Proprietà qualitative e quantitative dei Sistemi Reversibili
+* External member of the French ANR DCORE Project  on Causal  Debugging for Concurrent Systems

@@ -32,3 +32,27 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Vice Coordinator of RCR: Reversible Computing Research Group
 * National Coordinator of the INdAM - GNCS project: Proprietà qualitative e quantitative dei Sistemi Reversibili
 * External member of the French ANR DCORE Project  on Causal  Debugging for Concurrent Systems
+
+## Past Activities
+* Italian MC member of the  COST action IC1405 on Reversible Computation 
+* WG-Leader of the Software and Systems working group of the  COST Action IC1405 on Reversible Computation
+* Marie Curie Individual Fellowship project  RCADE on Reversible Debugger 
+
+# PhD Students
+* Vitaly Burvalev (PhD, Improving the efficiency of tuple spaces)
+* Doriana Medić (PhD, Relative expressiveness of calculi for reversible concurrency)
+
+# Current Working Papers
+* On asynchrony and reversibility in CCS (accepted at ICE 2026) ([draft](https://www.discotec.org/2026/satellite/ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf))
+* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([extended abstract](https://arxiv.org/pdf/2606.25916))
+
+
+## Past Events
+
+* General chair of [DisCoTec 2026](https://www.discotec.org/2026/)
+* Co-Chair of [FORTE 2025](https://www.discotec.org/2025/forte)
+* Organizer of [CORSE](https://www.discotec.org/2025/satellite/corse) a WS to celebrate J-B Stefani ([proceedings](https://link.springer.com/book/10.1007/978-3-031-99717-4))
+* PC-Member of EXPRESS/SOS2025
+* Chair of RC 2022, EXPRESS/SOS 2022,  EXPRESS/SOS2023
+* PC Member of RC2024, RC2023, FORTE2023,  DAIS2023, FORTE2022,  DAIS 2022, ICTCS 2022,  ICTCS 2021, RC 2021, DAIS 2021, ICE 2020, RC 2020, Coordination 2020, Dais 2020, Dais 2019, Coordination 2019, ICE 2019, Erlang 2019, Reversible Computing (RC) 2018,  Express/SOS 2018, ICE 2018
+* Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland )

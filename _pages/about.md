@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Presentation
-Dr. Claudio Antares Mezzina is an Associate Professor at the University of Bari within the Department of Informatics (DIB).
+Dr. Claudio Antares Mezzina is an Associate Professor at the University of Bari within the Department of Computer Science ([DIB](https://www.uniba.it/it/ricerca/dipartimenti/informatica)).
 
-He received his PhD in Computer Science and Engineering, from both Université Joseph Fourier (France) and Università di Bologna (Italy) in February 2012, under the supervision of Jean-Bernard Stefani and Davide Sangiorgi. During his PhD he focused on the interplay between concurrency and reversibility in the setting of Higher-Order Pi (PhD thesis). Before, he received a Laurea Degree cum laude from the University of Bologna (October 2007). 
+He received his PhD in Computer Science and Engineering, from both Université Joseph Fourier (France) and Università di Bologna (Italy) in February 2012, under the supervision of Jean-Bernard Stefani and Davide Sangiorgi. During his PhD he focused on the interplay between concurrency and reversibility in the setting of Higher-Order Pi ([PhD thesis](https://theses.hal.science/tel-00683964)). Before, he received a Laurea Degree cum laude from the University of Bologna (October 2007). 
 
 ## Past
 

@@ -55,4 +55,33 @@ My main research interests lie in formal methods for concurrent and distributed 
 * PC-Member of EXPRESS/SOS2025
 * Chair of RC 2022, EXPRESS/SOS 2022,  EXPRESS/SOS2023
 * PC Member of RC2024, RC2023, FORTE2023,  DAIS2023, FORTE2022,  DAIS 2022, ICTCS 2022,  ICTCS 2021, RC 2021, DAIS 2021, ICE 2020, RC 2020, Coordination 2020, Dais 2020, Dais 2019, Coordination 2019, ICE 2019, Erlang 2019, Reversible Computing (RC) 2018,  Express/SOS 2018, ICE 2018
-* Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland )
+* Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland)
+
+## Recent Papers
+* On Reversibility and Petri Nets FoSSaCS2026 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833?fr=RR-2&ref=pdf_download&rr=a16d26ec6e12ee78))
+* Bounded Reversibility in HOpi ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_2))
+* Encoding Reversible Petri nets into CCSK ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_1)]
+* Alternative Characterizations of Hereditary History-Preserving Bisimilarity via Backward Ready Multisets FoSSaCS2025 ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_4))
+* Reversibility in Process Calculi with Nondeterminism and Probabilities ICTAC2024
+* Expansion Laws for Forward-Reverse, Forward, and Reverse Bisimilarities via Proved Encodings Express/SOS 2024 ([pdf](https://arxiv.org/abs/2411.14583))
+* Model Checking Reversible Systems: Forwardly RC 2024 ([pdf](https://hal.science/hal-04568320/document))
+* Rollback Recovery in Session-based Programming COORDINATION 2023 (***best COORDINATION paper award***, ***best DiScoTec paper award***)
+* Relating Reversible Petri Nets and Reversible Event Structures, categorically FORTE 2023 (***best FORTE paper award***)
+
+## Recent Journals
+* Causal Reversibility in Nondeterministic Process Calculi Extended with Time or Probabilities Theor. Comp. Science (Elsevier) ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833))
+* Relating Reversible Petri Nets and Revesible Event Structures, Categorically - LMCS ([pdf](https://arxiv.org/abs/2302.14195))
+* Checkpoint-based rollback recovery in session programming - LMCS ([pdf](https://arxiv.org/abs/2312.02851))
+* A Reversible Perspective on Petri Nets and Event Structures - ACM TOCL 
+* A Truly Concurrent Semantics for Reversible CCS - LMCS ([pdf](https://arxiv.org/abs/2309.14011))
+* revTPL: The Reversible Temporal Process Language - LMCS ([pdf](https://arxiv.org/abs/2212.03687))
+* Bridging Causal Consistent and Time Reversibility: A Stochastic Process Algebraic Approach. LMCS ([pdf](https://arxiv.org/abs/2205.01420))
+* A Petri net view of covalent bonds Theor. Comp. Science (Elsevier)
+* Causal Consistency for Reversible Multiparty Protocols. LMCS ([pdf](https://arxiv.org/abs/1703.06021))
+* Reversing Place Transition Nets.  LMCS ([pdf](https://arxiv.org/abs/1910.04266))
+* Static Vs Dynamic Reversibility in CCS. Acta Informatica (Springer) 
+* A Parametric Framework for Reversible pi-calculi. Information and Computation 
+* Evaluating the efficiency of Linda implementations. Concurrency and Computation: Practice and Experience (Wiley)
+* Reversibility in session-based concurrency: A fresh look J. Log. Algebr. Meth. Program (Elsevier)
+* Causal-consistent rollback in a tuple-based language J. Log. Algebr. Meth. Program (Elsevier)
+* Reversibility in the Higher-Order pi-calculus Theor. Comp. Sci. (Elsevier) (One of the most cited TCS articles since 2016)

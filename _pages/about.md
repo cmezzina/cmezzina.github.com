@@ -28,7 +28,7 @@ My main research interests lie in formal methods for concurrent and distributed 
 * JSPS Fellowship 2025 on reversibility and go programming @Nagoya University
 * co-PI of the Italian Mur Prin Project [DeKLA](https://sites.google.com/uniurb.it/dekla-project/): Developing Kleene Logics and their Applications
 * Work Package Leader of the Italian Mur Prin Project [NiRvAna](http://www.sti.uniurb.it/nirvana/): Noninterference and Reversible Analysis in Private Blockchains
-* Local Leader for Uniba (former Uniurb), of the MSCA Staff Exchange [QCOMICAL](https://wdi.centralesupelec.fr/qcomical/) on quantum computing
+* Local Leader for Uniba (former Uniurb) of the MSCA Staff Exchange [QCOMICAL](https://wdi.centralesupelec.fr/qcomical/) on quantum computing
 * Vice Coordinator of [RCR](https://rcr-group.github.io/): Reversible Computing Research Group
 * National Coordinator of the INdAM - GNCS project: Proprietà qualitative e quantitative dei Sistemi Reversibili
 * External member of the French ANR DCORE Project  on Causal  Debugging for Concurrent Systems
@@ -43,7 +43,6 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Doriana Medić (PhD, Relative expressiveness of calculi for reversible concurrency)
 
 # Current Working Papers
-* On asynchrony and reversibility in CCS (accepted at ICE 2026) ([draft](https://www.discotec.org/2026/satellite/ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf))
 
 
 ## Past Events
@@ -57,12 +56,15 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland)
 
 ## Recent Papers
-* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41) [extended abstract](https://arxiv.org/pdf/2606.25916))
+* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41)) ([extended abstract](https://arxiv.org/pdf/2606.25916))
 * Fine-grained Causal Reversibility for
 Asynchronous Channel-based Programming (accepted at ICTAC2026)
  ([extended abract](https://arxiv.org/pdf/2608.29225))
 
 * A Logical 3-valued Semantics for Nondeterministic Choice (accepted at LFSA2026) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?LFSA2026.1))
+
+* On asynchrony and reversibility in CCS (accepted at ICE 2026) ([draft](https://www.discotec.org/2026/satellite/ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf))
+
 * On Reversibility and Petri Nets FoSSaCS2026 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833?fr=RR-2&ref=pdf_download&rr=a16d26ec6e12ee78))
 * Bounded Reversibility in HOpi ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_2))
 * Encoding Reversible Petri nets into CCSK ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_1)]

@@ -57,7 +57,7 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland)
 
 ## Recent Papers
-* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41)[extended abstract](https://arxiv.org/pdf/2606.25916))
+* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41) [extended abstract](https://arxiv.org/pdf/2606.25916))
 * Fine-grained Causal Reversibility for
 Asynchronous Channel-based Programming (accepted at ICTAC2026)
  ([extended abract](https://arxiv.org/pdf/2608.29225))

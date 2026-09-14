@@ -59,11 +59,14 @@ My main research interests lie in formal methods for concurrent and distributed 
 * On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41)) ([extended abstract](https://arxiv.org/pdf/2606.25916))
 * Fine-grained Causal Reversibility for
 Asynchronous Channel-based Programming (accepted at ICTAC2026)
- ([extended abract](https://arxiv.org/pdf/2608.29225))
+ ([extended abstract](https://arxiv.org/pdf/2608.29225))
 
 * A Logical 3-valued Semantics for Nondeterministic Choice (accepted at LFSA2026) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?LFSA2026.1))
 
 * On asynchrony and reversibility in CCS (accepted at ICE 2026) ([draft](https://www.discotec.org/2026/satellite/ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf))
+
+* Introducing Time Passage to the Reversible Semantics for Erlang
+RC2026
 
 * On Reversibility and Petri Nets FoSSaCS2026 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833?fr=RR-2&ref=pdf_download&rr=a16d26ec6e12ee78))
 * Bounded Reversibility in HOpi ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_2))

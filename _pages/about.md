@@ -10,7 +10,7 @@ redirect_from:
 ## Presentation
 Dr. Claudio Antares Mezzina is an Associate Professor at the University of Bari within the Department of Computer Science ([DIB](https://www.uniba.it/it/ricerca/dipartimenti/informatica)).
 
-He received his PhD in Computer Science and Engineering, from both Université Joseph Fourier (France) and Università di Bologna (Italy) in February 2012, under the supervision of Jean-Bernard Stefani and Davide Sangiorgi. During his PhD he focused on the interplay between concurrency and reversibility in the setting of Higher-Order Pi ([PhD thesis](https://theses.hal.science/tel-00683964)). Before, he received a Laurea Degree cum laude from the University of Bologna (October 2007). 
+He received his PhD in Computer Science and Engineering, from both Université Joseph Fourier (France) and Università di Bologna (Italy) in February 2012, under the supervision of Jean-Bernard Stefani and Davide Sangiorgi. During his PhD he focused on the interplay between concurrency and reversibility in the setting of Higher-Order Pi ([PhD thesis](https://theses.hal.science/tel-00683964)). Before, he received a Laurea Degree cum laude from the University of Bologna (October 2007).
 
 ## Past
 
@@ -26,17 +26,17 @@ My main research interests lie in formal methods for concurrent and distributed 
 ## Projects
 
 * JSPS Fellowship 2025 on reversibility and go programming @Nagoya University
-* co-PI of the Italian Mur Prin Project DeKLA: Developing Kleene Logics and their Applications 
-* Work Package Leader of the Italian Mur Prin Project NiRvAna: Noninterference and Reversible Analysis in Private Blockchains
-* Local Leader for Urbino, of the MSCA Staff Exchange QCOMICAL on quantum computing
-* Vice Coordinator of RCR: Reversible Computing Research Group
+* co-PI of the Italian Mur Prin Project [DeKLA](https://sites.google.com/uniurb.it/dekla-project/): Developing Kleene Logics and their Applications
+* Work Package Leader of the Italian Mur Prin Project [NiRvAna](http://www.sti.uniurb.it/nirvana/): Noninterference and Reversible Analysis in Private Blockchains
+* Local Leader for Uniba (former Uniurb), of the MSCA Staff Exchange [QCOMICAL](https://wdi.centralesupelec.fr/qcomical/) on quantum computing
+* Vice Coordinator of [RCR](https://rcr-group.github.io/): Reversible Computing Research Group
 * National Coordinator of the INdAM - GNCS project: Proprietà qualitative e quantitative dei Sistemi Reversibili
 * External member of the French ANR DCORE Project  on Causal  Debugging for Concurrent Systems
 
 ## Past Activities
-* Italian MC member of the  COST action IC1405 on Reversible Computation 
+* Italian MC member of the  COST action IC1405 on Reversible Computation
 * WG-Leader of the Software and Systems working group of the  COST Action IC1405 on Reversible Computation
-* Marie Curie Individual Fellowship project  RCADE on Reversible Debugger 
+* Marie Curie Individual Fellowship project  RCADE on Reversible Debugger
 
 # PhD Students
 * Vitaly Burvalev (PhD, Improving the efficiency of tuple spaces)
@@ -44,7 +44,6 @@ My main research interests lie in formal methods for concurrent and distributed 
 
 # Current Working Papers
 * On asynchrony and reversibility in CCS (accepted at ICE 2026) ([draft](https://www.discotec.org/2026/satellite/ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf))
-* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([extended abstract](https://arxiv.org/pdf/2606.25916))
 
 
 ## Past Events
@@ -58,6 +57,12 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Organizer and Lecturer of the Training School in Reversible Computation (28-31 August 2017, Torun, Poland)
 
 ## Recent Papers
+* On the Encodability of Reversible Process Calculi (accepted at CONCUR 2026) ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.41)[extended abstract](https://arxiv.org/pdf/2606.25916))
+* Fine-grained Causal Reversibility for
+Asynchronous Channel-based Programming (accepted at ICTAC2026)
+ ([extended abract](https://arxiv.org/pdf/2608.29225))
+
+* A Logical 3-valued Semantics for Nondeterministic Choice (accepted at LFSA2026) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?LFSA2026.1))
 * On Reversibility and Petri Nets FoSSaCS2026 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833?fr=RR-2&ref=pdf_download&rr=a16d26ec6e12ee78))
 * Bounded Reversibility in HOpi ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_2))
 * Encoding Reversible Petri nets into CCSK ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-99717-4_1)]
@@ -72,15 +77,15 @@ My main research interests lie in formal methods for concurrent and distributed 
 * Causal Reversibility in Nondeterministic Process Calculi Extended with Time or Probabilities Theor. Comp. Science (Elsevier) ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397525005833))
 * Relating Reversible Petri Nets and Revesible Event Structures, Categorically - LMCS ([pdf](https://arxiv.org/abs/2302.14195))
 * Checkpoint-based rollback recovery in session programming - LMCS ([pdf](https://arxiv.org/abs/2312.02851))
-* A Reversible Perspective on Petri Nets and Event Structures - ACM TOCL 
+* A Reversible Perspective on Petri Nets and Event Structures - ACM TOCL
 * A Truly Concurrent Semantics for Reversible CCS - LMCS ([pdf](https://arxiv.org/abs/2309.14011))
 * revTPL: The Reversible Temporal Process Language - LMCS ([pdf](https://arxiv.org/abs/2212.03687))
 * Bridging Causal Consistent and Time Reversibility: A Stochastic Process Algebraic Approach. LMCS ([pdf](https://arxiv.org/abs/2205.01420))
 * A Petri net view of covalent bonds Theor. Comp. Science (Elsevier)
 * Causal Consistency for Reversible Multiparty Protocols. LMCS ([pdf](https://arxiv.org/abs/1703.06021))
 * Reversing Place Transition Nets.  LMCS ([pdf](https://arxiv.org/abs/1910.04266))
-* Static Vs Dynamic Reversibility in CCS. Acta Informatica (Springer) 
-* A Parametric Framework for Reversible pi-calculi. Information and Computation 
+* Static Vs Dynamic Reversibility in CCS. Acta Informatica (Springer)
+* A Parametric Framework for Reversible pi-calculi. Information and Computation
 * Evaluating the efficiency of Linda implementations. Concurrency and Computation: Practice and Experience (Wiley)
 * Reversibility in session-based concurrency: A fresh look J. Log. Algebr. Meth. Program (Elsevier)
 * Causal-consistent rollback in a tuple-based language J. Log. Algebr. Meth. Program (Elsevier)
